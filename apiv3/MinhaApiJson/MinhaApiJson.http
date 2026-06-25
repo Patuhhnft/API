@@ -1,0 +1,6 @@
+@MinhaApiJson_HostAddress = http://localhost:5286
+
+GET {{MinhaApiJson_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
